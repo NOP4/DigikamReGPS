@@ -24,5 +24,5 @@ conn = mariadb.connect(
 ```
     
 ## Usage
-Juste execute the script:
+Just execute the script:
 `python3 digikamregps.py`
